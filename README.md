@@ -1,4 +1,4 @@
-# Emu68 USB Mouse
+# Emu68 USB Mouse - AI CODED
 
 **Use a standard USB mouse directly on a PiStorm-equipped Amiga — no AmigaOS driver required.**
 
